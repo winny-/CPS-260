@@ -198,3 +198,4 @@ FakesAssemblies/
 # Ew
 .DS_Store
 *.zip
+*.lst
